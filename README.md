@@ -14,6 +14,7 @@ Criar uma aplicação distribuída entre uma cloud privada e uma cloud pública,
 - **Frontend**: Hospedado na cloud pública **RedHat Sandbox**.
 - **Backend (Banco de Dados)**: Hospedado na cloud privada **RedHat Playground**.
 - **Comunicação**: Feita através do **Skupper**, que permite a interconexão entre os clusters de forma segura.
+![Captura de tela 2025-02-12 142343](https://github.com/user-attachments/assets/29ac9d48-4013-4c47-900d-e39b51a2c0c1)
 
 ---
 
